@@ -1,5 +1,5 @@
 # sap-networkflow-challenge
-# This challenge requires implementing a full-stack analytics solution for Azure NSG flow logs: 
+This challenge requires implementing a full-stack analytics solution for Azure NSG flow logs: 
 - Python ingestion and processing, Plotly Dash visualizations, containerized deployment, and Terraform-based infrastructure automation with CI/CD.
 
 # parser.py:
