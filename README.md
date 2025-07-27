@@ -1,6 +1,5 @@
 # sap-networkflow-challenge
-This challenge requires implementing a full-stack analytics solution for Azure NSG flow logs: 
-- Python ingestion and processing, Plotly Dash visualizations, containerized deployment, and Terraform-based infrastructure automation with CI/CD.
+This challenge requires implementing a full-stack analytics solution for Azure NSG flow logs.
 
 # parser.py:
 - Read and decompress zipped CSV NSG flow-log files from an Azure Blob Storage container: currently they are downloaded to C:\Users\Admin\Downloads\NSG_Flow_Logs_files.
